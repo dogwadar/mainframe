@@ -1,5 +1,5 @@
 <script>
-	import me from '$lib/img/me.jpg';
+	import { base } from '$app/paths';
 </script>
 
 <div class="relative px-20 pt-10">
@@ -12,6 +12,6 @@
 			class="text-blue-600"><u>dogwater33</u></a
 		>
 	</p>
-	<img src={me} alt="me" class="m-auto w-96 rounded-full border-8 border-red-600" />
+	<img src="{base}/me.jpg" alt="me" class="m-auto w-96 rounded-full border-8 border-red-600" />
 	<div class="mt-10 h-2 w-full bg-purple-600"></div>
 </div>

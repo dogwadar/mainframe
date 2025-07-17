@@ -1,5 +1,9 @@
 <script>
-	import loop from '$lib/img/loop.gif';
+	import { base } from '$app/paths';
 </script>
 
-<img src={loop} alt="Looping animation" class="fixed h-screen w-screen object-cover opacity-20" />
+<img
+	src="{base}/loop.gif"
+	alt="Looping animation"
+	class="fixed h-screen w-screen object-cover opacity-20"
+/>

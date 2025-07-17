@@ -1,9 +1,17 @@
+<script>
+	import { base } from '$app/paths';
+</script>
+
 <div
 	class="text-pink font-coral-pixels relative h-10 w-full border-y-2 border-dashed border-y-red-600 bg-green-500 text-4xl opacity-90"
 >
 	<ul class="flex justify-center gap-x-5">
-		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]"><a href="/">home</a></li>
-		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]"><a href="/">Abt</a></li>
+		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
+			<a href="{base}/">home</a>
+		</li>
+		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
+			<a href="{base}/">Abt</a>
+		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
 			<a href="https://github.com/dogwadar" target="_blank">github</a>
 		</li>
