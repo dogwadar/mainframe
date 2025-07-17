@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@theme {
+	--font-nabla: 'Nabla', sans-serif;
+	--font-coral-pixels: 'Coral Pixels', cursive;
+	--font-oxanium: 'Oxanium', sans-serif;
+}
+
+body {
+	background-color: #000;
+	cursor: help;
+}

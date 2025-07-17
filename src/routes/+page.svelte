@@ -1,0 +1,13 @@
+<script>
+	import Banner from '../components/Banner.svelte';
+	import Navbar from '../components/Navbar.svelte';
+	import Professional from '../components/Professional.svelte';
+	import Do from '../components/Do.svelte';
+	import Chess from '../components/Chess.svelte';
+</script>
+
+<Banner />
+<Navbar />
+<Professional />
+<Do />
+<Chess />
