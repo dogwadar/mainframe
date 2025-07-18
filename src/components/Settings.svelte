@@ -36,4 +36,8 @@
 		class="w-8 cursor-crosshair"
 		on:click={toggleAudio}
 	/>
+
+	<a href="{base}/todo"
+		><img src="{base}/important.png" alt="important" class="h-8 w-8 cursor-crosshair" /></a
+	>
 </div>
