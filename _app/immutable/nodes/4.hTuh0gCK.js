@@ -1,1 +1,0 @@
-import"../chunks/NZTpNUN0.js";import"../chunks/BkoAwPwF.js";import{D as r,F as a,G as m}from"../chunks/DlOLvdD7.js";import{s as e}from"../chunks/BxGgd3Pc.js";import{b as p}from"../chunks/DbB9ev2R.js";var i=r('<img alt="nochuck"/>');function u(o){var t=i();a(()=>e(t,"src",`${p??""}/nochuck.gif`)),m(o,t)}export{u as component};
