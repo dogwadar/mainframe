@@ -4,7 +4,9 @@
 
 <div class="relative px-20 pt-10">
 	<h1 class="font-nabla text-9xl">
-		dogwater:<span class="text-4xl">full-stack develorper, chess-player & awesome human being</span>
+		dogwater:<span class="text-4xl"
+			>full-stack develorper, chess-player, horror fan & overall awesome human being</span
+		>
 	</h1>
 	<p class="font-oxanium text-2xl text-red-600">
 		for business inquiries, please message me on discord: <a

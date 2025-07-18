@@ -7,10 +7,7 @@
 >
 	<ul class="flex flex-wrap justify-center gap-x-5">
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="{base}/">home</a>
-		</li>
-		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="{base}/">Abt</a>
+			<a href="#passion">PASSION PROJECT</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
 			<a href="https://github.com/dogwadar" target="_blank">github</a>
@@ -22,7 +19,10 @@
 			<a href="https://www.chess.com/member/thedefaulttheme" target="_blank">Add me on Chess.com</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="https://lichess.org/@/gotyaballz" target="_blank"> Add me on Lichess</a>
+			<a href="https://lichess.org/@/gotyaballz" target="_blank">Add me on Lichess</a>
+		</li>
+		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
+			<a href="/pengu">?</a>
 		</li>
 	</ul>
 </div>
