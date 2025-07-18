@@ -22,7 +22,7 @@
 			<a href="https://lichess.org/@/gotyaballz" target="_blank">Add me on Lichess</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="/pengu">?</a>
+			<a href="{base}/pengu">?</a>
 		</li>
 	</ul>
 </div>
