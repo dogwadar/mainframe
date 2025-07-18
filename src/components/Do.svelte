@@ -28,5 +28,15 @@
 			<li class="text-white">discord</li>
 		</ul>
 	</div>
-	<div class="mt-10 h-2 w-full bg-purple-600"></div>
+	<div class="flex flex-col items-center justify-center gap-1">
+		<div class="mt-10 h-2 w-11/12 bg-purple-950"></div>
+		<p>it saw my thoughts wishes and dreams, now im butt naked</p>
+		<div class="mt-10 h-2 w-10/12 bg-purple-900"></div>
+		<div class="mt-10 h-2 w-9/12 bg-purple-800"></div>
+		<div class="mt-10 h-2 w-8/12 bg-purple-700"></div>
+		<div class="mt-10 h-2 w-7/12 bg-purple-600"></div>
+		<div class="mt-10 h-2 w-6/12 bg-purple-500"></div>
+		<div class="mt-10 h-2 w-5/12 bg-purple-400"></div>
+		<div class="mt-10 h-2 w-4/12 bg-purple-300"></div>
+	</div>
 </div>

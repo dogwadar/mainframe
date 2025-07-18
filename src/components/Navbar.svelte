@@ -3,9 +3,9 @@
 </script>
 
 <div
-	class="text-pink font-coral-pixels relative h-10 w-full border-y-2 border-dashed border-y-red-600 bg-green-500 text-4xl opacity-90"
+	class="text-pink font-coral-pixels relative w-full border-y-2 border-dashed border-y-red-600 bg-green-500 text-4xl opacity-90"
 >
-	<ul class="flex justify-center gap-x-5">
+	<ul class="flex flex-wrap justify-center gap-x-5">
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
 			<a href="{base}/">home</a>
 		</li>

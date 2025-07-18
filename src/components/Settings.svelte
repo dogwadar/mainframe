@@ -6,7 +6,7 @@
 	let isPlaying = false;
 
 	onMount(() => {
-		audio = new Audio('/music.mp3');
+		audio = new Audio(`${base}/music.mp3`);
 		audio.loop = true;
 		audio.volume = 0.2;
 
