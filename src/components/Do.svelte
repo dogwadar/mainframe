@@ -1,4 +1,4 @@
-<div class="relative mt-5">
+<div class="relative mt-5 px-5">
 	<div class="no-wrap items-c flex flex-col">
 		<p class="font-nabla text-5xl">what i can, do and why you should hire me:</p>
 		<ul class="text-center">

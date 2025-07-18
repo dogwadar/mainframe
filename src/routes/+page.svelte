@@ -1,5 +1,6 @@
 <script>
 	import Banner from '../components/Banner.svelte';
+	import Settings from '../components/Settings.svelte';
 	import Navbar from '../components/Navbar.svelte';
 	import Professional from '../components/Professional.svelte';
 	import Do from '../components/Do.svelte';
@@ -8,6 +9,6 @@
 
 <Banner />
 <Navbar />
+<Settings />
 <Professional />
 <Do />
-<Chess />

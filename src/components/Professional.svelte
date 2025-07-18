@@ -13,5 +13,7 @@
 		>
 	</p>
 	<img src="{base}/me.jpg" alt="me" class="m-auto w-96 rounded-full border-8 border-red-600" />
-	<div class="mt-10 h-2 w-full bg-purple-600"></div>
+
+	<img src="{base}/man.png" alt="" class="absolute top-80 right-4 w-72" />
+	<div class="relative mt-10 h-2 w-full bg-purple-600"></div>
 </div>

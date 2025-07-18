@@ -12,7 +12,7 @@ const config = {
 			fallback: null
 		}),
 		paths: {
-			base: '/mainframe' // your GitHub repo name
+			base: process.env.NODE_ENV === 'production' ? '/mainframe' : ''
 		}
 	}
 };
