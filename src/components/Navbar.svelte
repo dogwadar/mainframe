@@ -7,6 +7,9 @@
 >
 	<ul class="flex flex-wrap justify-center gap-x-5">
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
+			<a href="{base}/pengu">?</a>
+		</li>
+		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
 			<a href="#passion">PASSION PROJECT</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
@@ -19,10 +22,10 @@
 			<a href="https://www.chess.com/member/thedefaulttheme" target="_blank">Add me on Chess.com</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="https://lichess.org/@/gotyaballz" target="_blank">Add me on Lichess</a>
+			<a href="https://fmhy.net/" target="_blank">fReE sTuFf</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="{base}/pengu">?</a>
+			<a href="https://lichess.org/@/gotyaballz" target="_blank">Add me on Lichess</a>
 		</li>
 	</ul>
 </div>

@@ -1,6 +1,6 @@
 <div id="passion" class="relative px-20 py-20">
 	<h1 class="font-nabla pb-20 text-center text-7xl">My passion project</h1>
-	<div class="flex flex-wrap gap-5 [&>iframe]:rounded-2xl">
+	<div class="flex flex-wrap justify-center gap-5 [&>iframe]:rounded-2xl">
 		<iframe
 			width="560"
 			height="315"
