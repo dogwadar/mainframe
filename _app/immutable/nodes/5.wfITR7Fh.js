@@ -1,4 +1,4 @@
-import"../chunks/NZTpNUN0.js";import"../chunks/CFrVEcZZ.js";import{f as t,s as a,a as n,t as i,b as s}from"../chunks/B8mzD96s.js";import{s as h}from"../chunks/v8dqkVhR.js";import{b as r}from"../chunks/IG4VIeEi.js";var g=t(`<p class="font-coral-pixels absolute text-center text-9xl">I'm giving you a night call to tell you how I feel (We'll go all, all, all night long) I want to
+import"../chunks/NZTpNUN0.js";import"../chunks/CFrVEcZZ.js";import{f as t,s as a,a as n,t as i,b as s}from"../chunks/B8mzD96s.js";import{s as h}from"../chunks/v8dqkVhR.js";import{b as r}from"../chunks/B_2XnU77.js";var g=t(`<p class="font-coral-pixels absolute text-center text-9xl">I'm giving you a night call to tell you how I feel (We'll go all, all, all night long) I want to
 	drive you through the night, down the hills (We'll go all, all, all night long) I'm gonna tell you
 	something you don't want to hear (We'll go all, all, all night long) I'm gonna show you where it's
 	dark, but have no fear (We'll go all, all, all night long) There's something inside you It's hard
