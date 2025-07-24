@@ -16,7 +16,7 @@
 			<a href="https://github.com/dogwadar" target="_blank">github</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
-			<a href="https://discord.com/">my Discord</a>
+			<a href="{base}/station">station</a>
 		</li>
 		<li class="hover:drop-shadow-[0_4px_6px_rgba(0,0,255,1)]">
 			<a href="https://www.chess.com/member/thedefaulttheme" target="_blank">Add me on Chess.com</a>

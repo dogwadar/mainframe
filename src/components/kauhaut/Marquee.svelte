@@ -5,7 +5,7 @@
 	let currentTime = '';
 
 	let marqueeMessage = `-------------------
-	You have arrived at Kauhaut Station! Enjoy your visit and remember to
+	You have arrived at Dogwater Station! Enjoy your visit and remember to
 	stay hydrated because hydration is essential for maintaining health, supporting physical
 	and mental performance, and ensuring the body operates efficiently. Making hydration a priority
 	can have a positive impact on your overall well-being. Ever heard of a successful, dehydrated
